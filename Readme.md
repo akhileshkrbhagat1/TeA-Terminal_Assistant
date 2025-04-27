@@ -1,5 +1,5 @@
-Shell Script Generator Using Gemini API
-=======================================
+TeA-Terminal_Assistant (Terminal Automation)
+============================================
 
 This project provides a tool to generate, save, and execute shell scripts based on user input using the **Google Gemini API**. The user provides a description of the task, and the program generates a corresponding shell script, saves it, makes it executable, and runs it. If any errors occur during execution, the output is captured and can be reviewed for debugging.
 
