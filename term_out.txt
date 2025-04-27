@@ -1,15 +1,2 @@
 Reinitialized existing Git repository in /home/krakhilesh_28/Documents/Neuro/TeA-TerminalAssistant/.git/
-[main 806b78c] Initial commit
- 3 files changed, 9 insertions(+)
- create mode 100644 .env
- create mode 100755 generated_script.sh
- create mode 100644 term_out.txt
 error: remote origin already exists.
-To https://github.com/akhileshkrbhagat1/TeA-Terminal_Assistant
- ! [rejected]        main -> main (fetch first)
-error: failed to push some refs to 'https://github.com/akhileshkrbhagat1/TeA-Terminal_Assistant'
-hint: Updates were rejected because the remote contains work that you do not
-hint: have locally. This is usually caused by another repository pushing to
-hint: the same ref. If you want to integrate the remote changes, use
-hint: 'git pull' before pushing again.
-hint: See the 'Note about fast-forwards' in 'git push --help' for details.
