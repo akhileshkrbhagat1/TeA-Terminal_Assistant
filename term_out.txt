@@ -1,2 +1,0 @@
-Reinitialized existing Git repository in /home/krakhilesh_28/Documents/Neuro/TeA-TerminalAssistant/.git/
-error: remote origin already exists.
